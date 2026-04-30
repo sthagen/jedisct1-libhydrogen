@@ -14,6 +14,7 @@ SRC = \
 	impl/secretbox.h \
 	impl/sign.h \
 	impl/x25519.h \
+	impl/gimli-core/aarch64.h \
 	impl/gimli-core/portable.h
 
 all: package

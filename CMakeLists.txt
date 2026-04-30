@@ -19,6 +19,7 @@ set(source_files
     "impl/common.h"
     "impl/core.h"
     "impl/gimli-core.h"
+    "impl/gimli-core/aarch64.h"
     "impl/gimli-core/portable.h"
     "impl/gimli-core/sse2.h"
     "impl/hash.h"
